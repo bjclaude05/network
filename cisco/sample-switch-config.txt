@@ -1,0 +1,5 @@
+enable
+configure terminal
+vlan 10
+name SERVERS
+exit
